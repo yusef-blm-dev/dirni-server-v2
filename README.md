@@ -1,0 +1,1 @@
+a server side (back-end) of a task manager web apllication with nodejs, that allows you to create , edit, delete tasks, in addition to that creating an account and login and logout and all of that using token and refresh token without using the cookies in the client side
