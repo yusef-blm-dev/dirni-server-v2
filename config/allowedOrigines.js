@@ -1,1 +1,1 @@
-export const allowedOrigines = ["http://localhost:5173"];
+export const allowedOrigines = ["https://dirni-client-react-redux.onrender.com"];
